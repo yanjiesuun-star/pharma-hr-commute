@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>药企HR通勤课</title>
+    <link>https://yanjiesuun-star.github.io/pharma-hr-commute/</link>
+    <description>给医药与人力新人准备的通勤小课。公开行业资料、基础知识与工作场景；AI辅助整理和合成语音，来源随讲稿提供。</description>
+    <language>zh-cn</language>
+    <atom:link href="https://yanjiesuun-star.github.io/pharma-hr-commute/feed.xml" rel="self" type="application/rss+xml" />
+    <itunes:author>药企HR通勤课</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:block>Yes</itunes:block>
+    <itunes:type>episodic</itunes:type>
+    <itunes:category text="Education" />
+    <itunes:image href="https://yanjiesuun-star.github.io/pharma-hr-commute/cover.png" />
+    <image>
+      <url>https://yanjiesuun-star.github.io/pharma-hr-commute/cover.png</url>
+      <title>药企HR通勤课</title>
+      <link>https://yanjiesuun-star.github.io/pharma-hr-commute/</link>
+    </image>
+    <item>
+      <title>试听｜一款药如何走到上市，HR需要招哪些人</title>
+      <description>从药物开发流程认识研发、临床、注册和质量岗位。附一条现行GCP版本提醒与虚构招聘练习；不是当日新闻全集。AI合成语音。
+讲稿与来源：https://yanjiesuun-star.github.io/pharma-hr-commute/ep0000.html</description>
+      <link>https://yanjiesuun-star.github.io/pharma-hr-commute/ep0000.html</link>
+      <guid isPermaLink="false">urn:pharma-hr-commute:ep0000</guid>
+      <pubDate>Fri, 16 Oct 2026 15:00:00 +0800</pubDate>
+      <enclosure url="https://yanjiesuun-star.github.io/pharma-hr-commute/ep0000.mp3" length="6806467" type="audio/mpeg" />
+      <itunes:duration>560</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+  </channel>
+</rss>
